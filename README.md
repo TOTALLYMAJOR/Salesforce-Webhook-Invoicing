@@ -21,3 +21,11 @@
 
 **Step 3: Implement Apex Classes for REST Callouts
 **
+
+
+Finally: Secure the Integration
+
+- Remote Site Settings: Add InvoiceService’s domain to Salesforce’s remote site settings to authorize callouts.
+- Named Credentials: Use named credentials for handling the endpoint and authentication details securely.
+
+Test Test Test
